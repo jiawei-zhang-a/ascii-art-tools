@@ -86,4 +86,3 @@ https://pypi.org/project/asciiarttools/0.0.3/
 
 [Ma, Michael](https://github.com/mma01us)
 
-[Zhang, Jiawei](https://github.com/jiawei-zhang-a)
